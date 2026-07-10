@@ -1,0 +1,102 @@
+:root {
+  /* Primary colors */
+  --primary-blue: #3b82f6;
+  --sky-blue: #60a5fa;
+  --light-blue: #dbeafe;
+  --very-light-blue: #eff6ff;
+
+  /* Backgrounds */
+  --bg-main: #f8fbff;
+  --bg-secondary: #f1f7ff;
+  --glass-bg: rgba(255, 255, 255, 0.35);
+  --glass-bg-strong: rgba(255, 255, 255, 0.55);
+  --glass-border: rgba(255, 255, 255, 0.5);
+
+  /* Text */
+  --text-heading: #0f172a;
+  --text-paragraph: #475569;
+  --text-secondary: #64748b;
+  --text-white: #ffffff;
+
+  /* Gradients */
+  --gradient-hero: linear-gradient(135deg, #f8fbff, #eaf4ff, #ddefff, #f8fbff);
+  --gradient-btn: linear-gradient(90deg, #3b82f6, #60a5fa);
+
+  /* Radius */
+  --radius-card: 24px;
+  --radius-btn: 14px;
+  --radius-image: 30px;
+  --radius-input: 16px;
+
+  /* Shadows */
+  --shadow-card: 0px 12px 40px rgba(0, 0, 0, 0.08);
+  --shadow-hover: 0px 20px 50px rgba(59, 130, 246, 0.25);
+  --shadow-glass: 0 8px 32px rgba(59, 130, 246, 0.15);
+
+  /* Fonts */
+  --font-heading: "Poppins", sans-serif;
+  --font-body: "Inter", sans-serif;
+  --font-numbers: "Space Grotesk", sans-serif;
+
+  /* Layout */
+  --container-width: 1400px;
+  --section-gap: 120px;
+  --card-padding: 32px;
+  --navbar-height: 88px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--bg-main);
+  color: var(--text-paragraph);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style: none;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+input,
+textarea {
+  font-family: inherit;
+}
+
+:focus-visible {
+  outline: 2px solid var(--primary-blue);
+  outline-offset: 3px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}

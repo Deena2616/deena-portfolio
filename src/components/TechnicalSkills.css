@@ -1,0 +1,40 @@
+.tech-skills__rows {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.tech-skills__row {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  background: var(--very-light-blue);
+  border-radius: var(--radius-input);
+  padding: 12px 14px;
+}
+
+.tech-skills__icon {
+  width: 32px;
+  height: 32px;
+  border-radius: 9px;
+  background: rgba(59, 130, 246, 0.12);
+  color: var(--primary-blue);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  flex-shrink: 0;
+}
+
+.tech-skills__label {
+  font-size: 12.5px;
+  font-weight: 700;
+  color: var(--text-heading);
+}
+
+.tech-skills__value {
+  margin-top: 2px;
+  font-size: 12.5px;
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
