@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/deena-portfolio/static/css/main.50086d24.css",
+    "main.js": "/deena-portfolio/static/js/main.b58c0bae.js",
+    "static/media/visualwalk-in.png": "/deena-portfolio/static/media/visualwalk-in.018dd2278921a3f66f1b.png",
+    "static/media/queensgambit.png": "/deena-portfolio/static/media/queensgambit.3679372a36194c1a1b4f.png",
+    "static/media/churchhub.png": "/deena-portfolio/static/media/churchhub.bd95521b22774c1e2bd3.png",
+    "static/media/collegeassistant.png": "/deena-portfolio/static/media/collegeassistant.ea9c3fecf949f9f1f96e.png",
+    "static/media/appifyours.png": "/deena-portfolio/static/media/appifyours.91331c20c7a72e94aa10.png",
+    "static/media/your-photo.jpeg": "/deena-portfolio/static/media/your-photo.e8b4c8163e55090a3759.jpeg",
+    "static/media/Logo-Portfolio.png": "/deena-portfolio/static/media/Logo-Portfolio.1233133b6bf4961fd896.png",
+    "static/media/hero-background.jpeg": "/deena-portfolio/static/media/hero-background.e42b68ce1ba8a0b1a72b.jpeg",
+    "index.html": "/deena-portfolio/index.html",
+    "main.50086d24.css.map": "/deena-portfolio/static/css/main.50086d24.css.map",
+    "main.b58c0bae.js.map": "/deena-portfolio/static/js/main.b58c0bae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50086d24.css",
+    "static/js/main.b58c0bae.js"
+  ]
+}
