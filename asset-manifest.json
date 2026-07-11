@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deena-portfolio/static/css/main.50086d24.css",
-    "main.js": "/deena-portfolio/static/js/main.a496604d.js",
+    "main.js": "/deena-portfolio/static/js/main.b7887d64.js",
     "static/media/visualwalk-in.png": "/deena-portfolio/static/media/visualwalk-in.018dd2278921a3f66f1b.png",
     "static/media/queensgambit.png": "/deena-portfolio/static/media/queensgambit.3679372a36194c1a1b4f.png",
     "static/media/churchhub.png": "/deena-portfolio/static/media/churchhub.bd95521b22774c1e2bd3.png",
@@ -12,10 +12,10 @@
     "static/media/hero-background.jpeg": "/deena-portfolio/static/media/hero-background.e42b68ce1ba8a0b1a72b.jpeg",
     "index.html": "/deena-portfolio/index.html",
     "main.50086d24.css.map": "/deena-portfolio/static/css/main.50086d24.css.map",
-    "main.a496604d.js.map": "/deena-portfolio/static/js/main.a496604d.js.map"
+    "main.b7887d64.js.map": "/deena-portfolio/static/js/main.b7887d64.js.map"
   },
   "entrypoints": [
     "static/css/main.50086d24.css",
-    "static/js/main.a496604d.js"
+    "static/js/main.b7887d64.js"
   ]
 }
